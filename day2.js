@@ -85,4 +85,4 @@ console.log(mergedString);
 
 // 25. Use repeat() method to print 'learn Javascript' 2 times.
 let repeatedString = challenge.repeat(2);
-console.log(repeatedString);
+console.log(repeatedString);;
